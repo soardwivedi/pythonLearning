@@ -1,0 +1,6 @@
+print("My name is Vivek Dwivedi", "I am from Bihar")
+print ("I am from Bihar")
+print(25)
+print(25- 23)
+print("Hello World")
+print("Vivek Dwivedi")
