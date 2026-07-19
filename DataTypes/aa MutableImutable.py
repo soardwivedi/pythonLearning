@@ -17,3 +17,10 @@
 # Frozen Set
 # Bytes
 
+b = "Ishant"
+print(b)
+a = b
+print(a)
+b = "Vivek"
+print(b)
+print("aaaa", a)
